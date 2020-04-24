@@ -3,7 +3,7 @@ A website created using HTML, CSS, JS and Bootstrap to imitate an online clothin
 
 View Site
 - 
-
+https://tbuwadi.github.io/Belle-Boutique/.
 
 Technical Stack
 -
